@@ -1,5 +1,5 @@
 # IIR_filter
-This repository contains verilog code that implements a First Order RC Filter as an IIR filter using the Bilinear Transform Method.
+This repository contains verilog code that implements a First Order RC Filter as an IIR filter using the Bilinear Transform Method. The module has AXI4-Stream interfaces.
 
 ___
 
