@@ -29,6 +29,8 @@ $`b_0 = b_1 = \frac{1}{1 + \frac {f_s}{\pi f_c}}`$
 
 $`a_1 = \frac{1- \frac {f_s}{\pi f_c}}{1 + \frac {f_s}{\pi f_c}}`$
 
+These terms are then scaled according to required data width and set in the parameters section of the module.
+
 ## IIR Filter Structure
 
 The sample domain function obtained from the z-domain transfer function is given as
